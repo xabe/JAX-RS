@@ -2,7 +2,7 @@ JBoss JAX-RS
 ======================
 
 Este ejemplo muestra como conectarse a un JAX-RS remotamente que esta desplegando en un Jboss 6.1 EAP, Este ejemplo utiliza Jersey y EasyRest para implementar JAX-RS,
-implementa el client como el servidor.
+implementa un cliente para conectarse con el servidor.
 
 Ejecutar el ejemplo
 -------------------
